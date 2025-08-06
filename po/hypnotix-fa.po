@@ -1,0 +1,416 @@
+# Persian translation for linuxmint
+# Copyright (c) 2023 Rosetta Contributors and Canonical Ltd 2023
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2023-06-06 13:22+0100\n"
+"PO-Revision-Date: 2023-06-13 12:22+0000\n"
+"Last-Translator: parham <Unknown>\n"
+"Language-Team: Persian <fa@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2023-07-07 12:58+0000\n"
+"X-Generator: Launchpad (build 2ac9e3bf4ab511504f8fc651371e24a6a047ba12)\n"
+
+#: usr/lib/hypnotix/hypnotix.py:146 usr/lib/hypnotix/hypnotix.py:774
+#: usr/lib/hypnotix/hypnotix.py:1326 generate_desktop_files:25
+#: usr/share/hypnotix/hypnotix.ui.h:1
+msgid "Hypnotix"
+msgstr "Hypnotix"
+
+#: usr/lib/hypnotix/hypnotix.py:317 usr/share/hypnotix/shortcuts.ui.h:7
+msgid "Keyboard Shortcuts"
+msgstr "میانبرهای صفحه کلید"
+
+#: usr/lib/hypnotix/hypnotix.py:324 usr/share/hypnotix/hypnotix.ui.h:33
+#: usr/share/hypnotix/shortcuts.ui.h:3
+msgid "Stream Information"
+msgstr "اطلاعات استریم"
+
+#: usr/lib/hypnotix/hypnotix.py:332 usr/lib/hypnotix/hypnotix.py:1325
+#: usr/share/hypnotix/shortcuts.ui.h:2
+msgid "About"
+msgstr "درباره‌ی برنامه"
+
+#: usr/lib/hypnotix/hypnotix.py:337 usr/share/hypnotix/shortcuts.ui.h:9
+msgid "Quit"
+msgstr "خروج"
+
+#: usr/lib/hypnotix/hypnotix.py:350
+msgid "M3U URL"
+msgstr "آدرس M3U"
+
+#: usr/lib/hypnotix/hypnotix.py:351
+msgid "Local M3U File"
+msgstr "فایل M3U محلی"
+
+#: usr/lib/hypnotix/hypnotix.py:352
+msgid "Xtream API"
+msgstr "Xtream API"
+
+#: usr/lib/hypnotix/hypnotix.py:532
+#, python-format
+msgid "Season %s"
+msgstr "فصل %s"
+
+#: usr/lib/hypnotix/hypnotix.py:543
+#, python-format
+msgid "Episode %s"
+msgstr "قسمت %s"
+
+#: usr/lib/hypnotix/hypnotix.py:654
+msgid "No channels found"
+msgstr "کانالی یافت نشد"
+
+#: usr/lib/hypnotix/hypnotix.py:680
+msgid "No provider selected"
+msgstr "ارائه دهنده ای انتخاب نشده است"
+
+#: usr/lib/hypnotix/hypnotix.py:681 usr/lib/hypnotix/hypnotix.py:690
+#, python-format
+msgid "TV Channels (%d)"
+msgstr "کانال های تلویزیونی (%d)"
+
+#: usr/lib/hypnotix/hypnotix.py:682 usr/lib/hypnotix/hypnotix.py:691
+#, python-format
+msgid "Movies (%d)"
+msgstr "فیلم‌ها (%d)"
+
+#: usr/lib/hypnotix/hypnotix.py:683 usr/lib/hypnotix/hypnotix.py:692
+#, python-format
+msgid "Series (%d)"
+msgstr "سریال ها (%d)"
+
+#: usr/lib/hypnotix/hypnotix.py:702 usr/lib/hypnotix/hypnotix.py:714
+msgid "TV Channels"
+msgstr "کانال های تلویزیون"
+
+#: usr/lib/hypnotix/hypnotix.py:704 usr/lib/hypnotix/hypnotix.py:729
+msgid "Movies"
+msgstr "فیلم‌ها"
+
+#: usr/lib/hypnotix/hypnotix.py:706 usr/lib/hypnotix/hypnotix.py:736
+msgid "Series"
+msgstr "سریال‌ها"
+
+#: usr/lib/hypnotix/hypnotix.py:717
+#, python-format
+msgid "TV Channels > %s"
+msgstr "کانال‌های تلویزیونی > %s"
+
+#: usr/lib/hypnotix/hypnotix.py:732
+#, python-format
+msgid "Movies > %s"
+msgstr "فیلم‌ها > %s"
+
+#: usr/lib/hypnotix/hypnotix.py:739
+#, python-format
+msgid "Series > %s"
+msgstr "سریال‌ها > %s"
+
+#: usr/lib/hypnotix/hypnotix.py:747 usr/share/hypnotix/hypnotix.ui.h:6
+msgid "Preferences"
+msgstr "ترجیحات"
+
+#: usr/lib/hypnotix/hypnotix.py:751 usr/share/hypnotix/hypnotix.ui.h:5
+msgid "Providers"
+msgstr "ارائه دهندگان"
+
+#: usr/lib/hypnotix/hypnotix.py:756
+#, python-format
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: usr/lib/hypnotix/hypnotix.py:758
+msgid "Add a new provider"
+msgstr "افزودن ارايه دهنده"
+
+#: usr/lib/hypnotix/hypnotix.py:762
+#, python-format
+msgid "Delete %s"
+msgstr "حذف %s"
+
+#: usr/lib/hypnotix/hypnotix.py:766
+msgid "Reset providers"
+msgstr "بازگردانی ارايه دهندگان"
+
+#: usr/lib/hypnotix/hypnotix.py:808 usr/lib/hypnotix/hypnotix.py:812
+#: usr/lib/hypnotix/hypnotix.py:864 usr/lib/hypnotix/hypnotix.py:866
+#: usr/lib/hypnotix/hypnotix.py:873 usr/lib/hypnotix/hypnotix.py:876
+#: usr/lib/hypnotix/hypnotix.py:888 usr/lib/hypnotix/hypnotix.py:901
+#: usr/lib/hypnotix/hypnotix.py:906 usr/lib/hypnotix/hypnotix.py:914
+#: usr/lib/hypnotix/hypnotix.py:1277 usr/lib/hypnotix/hypnotix.py:1279
+#: usr/lib/hypnotix/hypnotix.py:1305 usr/lib/hypnotix/hypnotix.py:1309
+#: usr/share/hypnotix/hypnotix.ui.h:34
+msgid "General"
+msgstr "عمومی"
+
+#: usr/lib/hypnotix/hypnotix.py:809 usr/lib/hypnotix/hypnotix.py:878
+#: usr/lib/hypnotix/hypnotix.py:880 usr/lib/hypnotix/hypnotix.py:882
+#: usr/lib/hypnotix/hypnotix.py:1278 usr/share/hypnotix/hypnotix.ui.h:36
+msgid "Color"
+msgstr "رنگ"
+
+#: usr/lib/hypnotix/hypnotix.py:813 usr/lib/hypnotix/hypnotix.py:898
+#: usr/lib/hypnotix/hypnotix.py:908 usr/lib/hypnotix/hypnotix.py:1280
+#: usr/share/hypnotix/hypnotix.ui.h:38
+msgid "Layout"
+msgstr "چیدمان"
+
+#: usr/lib/hypnotix/hypnotix.py:849 usr/lib/hypnotix/hypnotix.py:850
+#: usr/lib/hypnotix/hypnotix.py:864 usr/lib/hypnotix/hypnotix.py:866
+#: usr/lib/hypnotix/hypnotix.py:1301 usr/lib/hypnotix/hypnotix.py:1302
+#: usr/lib/hypnotix/hypnotix.py:1305 usr/lib/hypnotix/hypnotix.py:1309
+#: usr/share/hypnotix/hypnotix.ui.h:35
+msgid "Average Bitrate"
+msgstr "متوسط bitrate"
+
+#: usr/lib/hypnotix/hypnotix.py:873
+msgid "Dimensions"
+msgstr "ابعاد"
+
+#: usr/lib/hypnotix/hypnotix.py:876
+msgid "Aspect"
+msgstr "منظر"
+
+#: usr/lib/hypnotix/hypnotix.py:878
+msgid "Pixel Format"
+msgstr "قالب‌بندی پیکسلی"
+
+#: usr/lib/hypnotix/hypnotix.py:880
+msgid "Gamma"
+msgstr "گاما"
+
+#: usr/lib/hypnotix/hypnotix.py:882
+msgid "Bits Per Pixel"
+msgstr "بیت به ازای پیکسل"
+
+#: usr/lib/hypnotix/hypnotix.py:888 usr/lib/hypnotix/hypnotix.py:914
+msgid "Codec"
+msgstr "کُدک"
+
+#: usr/lib/hypnotix/hypnotix.py:897
+msgid "surround sound"
+msgstr "احاطۀ صدا"
+
+#: usr/lib/hypnotix/hypnotix.py:898
+msgid "Channels"
+msgstr "کانال‌ها"
+
+#: usr/lib/hypnotix/hypnotix.py:901
+msgid "Sample Rate"
+msgstr "نرخ نمونه‌"
+
+#: usr/lib/hypnotix/hypnotix.py:906
+msgid "Format"
+msgstr "قالب‌بندی"
+
+#: usr/lib/hypnotix/hypnotix.py:908
+msgid "Channel Count"
+msgstr "تعداد کانال"
+
+#: usr/lib/hypnotix/hypnotix.py:1002
+#, python-format
+msgid "%d TV channel"
+msgid_plural "%d TV channels"
+msgstr[0] "%d کانال تلویزیونی"
+
+#: usr/lib/hypnotix/hypnotix.py:1007
+#, python-format
+msgid "%d movie"
+msgid_plural "%d movies"
+msgstr[0] "%d فیلم"
+
+#: usr/lib/hypnotix/hypnotix.py:1012
+#, python-format
+msgid "%d series"
+msgid_plural "%d series"
+msgstr[0] "%d سریال"
+
+#: usr/lib/hypnotix/hypnotix.py:1032
+msgid "Edit"
+msgstr "ویرایش"
+
+#: usr/lib/hypnotix/hypnotix.py:1042
+msgid "Clear icon cache"
+msgstr "پاک کردن مخزن تصاویر"
+
+#: usr/lib/hypnotix/hypnotix.py:1052
+msgid "Remove"
+msgstr "حذف"
+
+#: usr/lib/hypnotix/hypnotix.py:1151
+msgid "M3U Playlists"
+msgstr "لیست‌های پخش M3U"
+
+#: usr/lib/hypnotix/hypnotix.py:1327 generate_desktop_files:25
+#: usr/share/hypnotix/hypnotix.ui.h:2
+msgid "Watch TV"
+msgstr "تماشای تلویزیون"
+
+#: usr/lib/hypnotix/hypnotix.py:1394
+msgid "Loading providers..."
+msgstr "در حال بارگیری ارائه دهندگان..."
+
+#: usr/lib/hypnotix/hypnotix.py:1407
+msgid "Downloading playlist..."
+msgstr "در حال دانلود لیست پخش..."
+
+#: usr/lib/hypnotix/hypnotix.py:1409
+msgid "Getting playlist..."
+msgstr "در حال دریافت لیست پخش..."
+
+#: usr/lib/hypnotix/hypnotix.py:1412
+msgid "Checking playlist..."
+msgstr "در حال بررسی لیست پخش..."
+
+#: usr/lib/hypnotix/hypnotix.py:1414
+msgid "Loading channels..."
+msgstr "در حال بارگیری کانال ها..."
+
+#: usr/lib/hypnotix/hypnotix.py:1422
+#, python-format
+msgid "Failed to download playlist from %s"
+msgstr "لیست پخش از %s بارگیری نشد"
+
+#: usr/share/hypnotix/hypnotix.ui.h:3 usr/share/hypnotix/shortcuts.ui.h:6
+msgid "Search"
+msgstr "جستجو"
+
+#: usr/share/hypnotix/hypnotix.ui.h:4
+msgid "Fullscreen"
+msgstr "تمام‌صفحه"
+
+#: usr/share/hypnotix/hypnotix.ui.h:7
+msgid "MPV Options"
+msgstr "گزینه های MPV"
+
+#: usr/share/hypnotix/hypnotix.ui.h:8
+msgid "List of MPV options"
+msgstr "لیست گزینه های MPV"
+
+#: usr/share/hypnotix/hypnotix.ui.h:9
+msgid "Playback"
+msgstr "پخش"
+
+#: usr/share/hypnotix/hypnotix.ui.h:10
+msgid "User Agent"
+msgstr "نماینده کاربر"
+
+#: usr/share/hypnotix/hypnotix.ui.h:11
+msgid "Referrer"
+msgstr "ارجاع دهنده"
+
+#: usr/share/hypnotix/hypnotix.ui.h:12
+msgid "Network"
+msgstr "شیکه"
+
+#: usr/share/hypnotix/hypnotix.ui.h:13
+msgid "Add a new provider..."
+msgstr "افزودن ارائه دهنده جدید..."
+
+#: usr/share/hypnotix/hypnotix.ui.h:14
+msgid "Reset to defaults..."
+msgstr "بازگردانی به پیش‌فرض..."
+
+#: usr/share/hypnotix/hypnotix.ui.h:15
+msgid "Name:"
+msgstr "نام:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:16
+msgid "URL:"
+msgstr "نشانی اینترنتی:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:17
+msgid "Path:"
+msgstr "مسیر:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:18
+msgid "Cancel"
+msgstr "لغو"
+
+#: usr/share/hypnotix/hypnotix.ui.h:19
+msgid "OK"
+msgstr "تأیید"
+
+#: usr/share/hypnotix/hypnotix.ui.h:20
+msgid "Username:"
+msgstr "نام‌کاربری:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:21
+msgid "Password:"
+msgstr "گذرواژه:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:22
+msgid "Browse..."
+msgstr "مرور…"
+
+#: usr/share/hypnotix/hypnotix.ui.h:23
+msgid "EPG:"
+msgstr "EPG:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:24
+msgid "Type:"
+msgstr "نوع:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:25
+msgid "Are you sure you want to delete this provider?"
+msgstr "مطمئنید میخواهید این ارائه دهنده را حذف کنید؟"
+
+#: usr/share/hypnotix/hypnotix.ui.h:26
+msgid "No"
+msgstr "خیر"
+
+#: usr/share/hypnotix/hypnotix.ui.h:27
+msgid "Yes"
+msgstr "بله"
+
+#: usr/share/hypnotix/hypnotix.ui.h:28
+msgid "Are you sure you want to reset to the default providers?"
+msgstr "مطمئنید میخواهید به ارائه دهندگان پیش‌فرض بازگردانی کنید؟"
+
+#: usr/share/hypnotix/hypnotix.ui.h:29
+msgid "Currently playing:"
+msgstr "درحال پخش:"
+
+#: usr/share/hypnotix/hypnotix.ui.h:30
+msgid "Show"
+msgstr "نمایش"
+
+#: usr/share/hypnotix/hypnotix.ui.h:31
+msgid "Pause"
+msgstr "مکث"
+
+#: usr/share/hypnotix/hypnotix.ui.h:32
+msgid "Stop"
+msgstr "متوقف کردن"
+
+#: usr/share/hypnotix/hypnotix.ui.h:37
+msgid "Video"
+msgstr "ویدیو"
+
+#: usr/share/hypnotix/hypnotix.ui.h:39
+msgid "Audio"
+msgstr "صدا"
+
+#: usr/share/hypnotix/shortcuts.ui.h:1
+msgid "Main shortcuts"
+msgstr "میانبر‌های اصلی"
+
+#: usr/share/hypnotix/shortcuts.ui.h:4
+msgid "Play previous/next channel"
+msgstr "پخش کانال قبلی/ بعدی"
+
+#: usr/share/hypnotix/shortcuts.ui.h:5
+msgid "Toggle Fullscreen"
+msgstr "تغییر به تمام‌صفحه"
+
+#: usr/share/hypnotix/shortcuts.ui.h:8
+msgid "Reload all providers"
+msgstr "بارگذاری مجدد تمام ارائه دهندگان"
